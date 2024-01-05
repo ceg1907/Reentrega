@@ -1,0 +1,28 @@
+[
+    {
+        "nombre":"PROCESADOR AMD RYZEN 3 3200G",
+        "precio":"93,600",
+        "stock":15
+    },
+    {
+        "nombre":"TARJETA GRAFICA GEFORCE RTX 4090",
+        "precio":"2,090,000",
+        "stock":10
+    },
+    {
+        "nombre":"TARJETA GRAFICA GEFORCE RTX 3060",
+        "precio":"350,370",
+        "stock":7
+    },
+    {
+        "nombre":"SILLA GAMER CORSAIR T3",
+        "precio":"266,084",
+        "stock":12
+    },
+    {
+        "nombre":"SILLA GAMER AUREOX G600",
+        "precio":"179,000",
+        "stock":16
+    }
+
+]
